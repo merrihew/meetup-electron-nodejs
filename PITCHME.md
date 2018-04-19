@@ -1,5 +1,6 @@
 @title[Code Presenting]
-# Electron & Node.js
+# Electron
+![electron](presentation/images/electron-logo.png)
 
 ---
 ## What is Electron?
