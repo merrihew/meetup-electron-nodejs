@@ -1,15 +1,14 @@
-# Flux 
-
-An application architecture for React
-
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+@title[Code Presenting]
+# Electron & Node.js
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+@title[Sample With Annotations]
+
+```javascript
+const electron = require('electron')
+const app = electron.app
+```
+
+@[1](Require Electron)
+@[2](Grab the app)
