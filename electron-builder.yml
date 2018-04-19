@@ -1,0 +1,14 @@
+appId: com.gatherhere.meetup-electron-nodejs
+productName: Atlanta Meetup Demo
+mac:
+  category: public.app-category.developer-tools
+  type: distribution
+  publish:
+    - provider: s3
+      bucket: meetup-electron-nodejs
+      region: us-east-1
+      acl: public-read
+files:
+  - "src/**/*"
+  - "build/**/*"
+    

@@ -1,0 +1,32 @@
+{
+  "name": "@merrihew/meetup-electron-nodejs",
+  "productName": "Atlanta Meetup Demo",
+  "version": "1.0.0",
+  "description": "Electron & Node.js Presentation (for Atlanta Node.js Meetup)",
+  "main": "./src/",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "release": "build",
+    "mac:open": "open dist/mac/Atlanta\\ Meetup\\ Demo.app/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merrihew/meetup-electron-nodejs.git"
+  },
+  "author": "Tom Merrihew <tom.merrihew@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/merrihew/meetup-electron-nodejs/issues"
+  },
+  "homepage": "https://github.com/merrihew/meetup-electron-nodejs#readme",
+  "devDependencies": {
+    "electron": "^1.8.4",
+    "electron-builder": "^20.9.2",
+    "electron-publisher-s3": "^20.9.0"
+  },
+  "dependencies": {
+    "electron-updater": "^2.21.8",
+    "robotjs": "^0.5.1"
+  }
+}
