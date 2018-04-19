@@ -21,3 +21,13 @@ const app = electron.app
 @[3-15](`ready` event)
 @[17-21]
 @[23-27]
+
+---
+@title[Sample using source file]
+
+---?code=presentation/01-intro.js&lang=javascript
+
+@[1](Require `electron`)
+@[3-15](`ready` event)
+@[17-21]
+@[23-27]
