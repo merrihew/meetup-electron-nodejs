@@ -18,4 +18,10 @@ const app = electron.app
 ---?code=presentation/01-intro.js&lang=javascript
 
 @[1](Require `electron`)
-@[3-15](`ready` event)
+@[17-21](`ready` event)
+
+
+---?code=presentation/01-intro.js&lang=javascript&title=Sample using source file
+
+@[1](Require `electron`)
+@[17-21](`ready` event)
