@@ -34,3 +34,5 @@ The main process controlling an Electron app
 @[4-6](Create an HTTP server)
 @[8-10](Start the server on 'ready')
 @[12-14](Close the server before 'quit')
+
+[http://localhost:8001](http://localhost:8001)
