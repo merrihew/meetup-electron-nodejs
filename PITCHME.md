@@ -2,6 +2,14 @@
 # Electron & Node.js
 
 ---
+## What is Electron?
+
+- Desktop app framework
+- Build using Chromium and Node.js
+- Compatible with Mac, Windows, and Linux
+
+
+---
 ## Electron's `app` Process
 
 The main process controlling an Electron app
