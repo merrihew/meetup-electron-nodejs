@@ -10,7 +10,10 @@
 - Developed by GitHub (formerly `atom-shell`)
 @ulend
 
-![github](presentation/images/github-logo.png)
+---
+## Who uses Electron?
+
+![logos-1](https://cl.ly/433J3S2l2y06/Image%202018-04-19%20at%206.37.52%20PM.png)
 
 ---
 ## Electron's `app` Process
