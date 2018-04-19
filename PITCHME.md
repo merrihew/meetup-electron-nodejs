@@ -1,6 +1,6 @@
 @title[Code Presenting]
 
-![electron](presentation/images/electron-logo.png)
+---?image=presentation/images/electron-logo.png&position=center
 
 ---
 ## What is Electron?
