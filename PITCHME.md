@@ -2,6 +2,8 @@
 # Electron & Node.js
 
 ---
-@title[Electron `app` process]
+@title[`app` process]
 
----?code=presentation/app.js&lang=javascript&title=app events
+The main process controlling an Electron app
+
+---?code=presentation/app-events.js&lang=javascript&title=app events
