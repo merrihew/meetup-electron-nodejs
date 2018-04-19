@@ -10,4 +10,3 @@ app.on('ready', () => {
     const appMetrics = app.getAppMetrics()
     console.log(`app.getAppMetrics() => ${JSON.stringify(appMetrics, null, 2)}`)
 })
-
