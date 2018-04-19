@@ -4,10 +4,11 @@
 ---
 ## What is Electron?
 
+@ul
 - Desktop app framework
 - Build using Chromium and Node.js
 - Compatible with Mac, Windows, and Linux
-
+@ulend
 
 ---
 ## Electron's `app` Process
