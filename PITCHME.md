@@ -1,9 +1,10 @@
 @title[Code Presenting]
-
----?image=presentation/images/electron-logo.png&position=center
+# Electron
 
 ---
 ## What is Electron?
+
+![electron](presentation/images/electron-logo.png)
 
 @ul
 - Desktop app framework
