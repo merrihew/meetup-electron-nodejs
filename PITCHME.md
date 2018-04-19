@@ -29,10 +29,19 @@ The main process controlling an Electron app
 @[8-9](Get the current path)
 @[10-11](Get runtime metrics (memory, cpu, pid))
 
----?code=presentation/app-node.js&lang=javascript&title=It's all Node.js
+---?code=presentation/browser-window.js&lang=javascript&title=Wweb browser
+@[4](Create a new browser window)
+@[5-14](Set some options)
+@[16](Load a local/remote URL)
+
+---?code=presentation/app-node.js&lang=javascript&title=Node.js runtime
 @[2](Require Node.js modules)
 @[4-6](Create an HTTP server)
 @[8-10](Start the server on 'ready')
 @[12-14](Close the server before 'quit')
 
-[http://localhost:8001](http://localhost:8001)
+---
+## Demo: Tray/Taskbar App
+@ul
+- 
+@ulend
