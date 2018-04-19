@@ -1,5 +1,5 @@
 @title[Code Presenting]
-# Electron
+
 ![electron](presentation/images/electron-logo.png)
 
 ---
