@@ -2,8 +2,12 @@
 # Electron & Node.js
 
 ---
-@title[`app` process]
+## Electron's `app` Process
 
 The main process controlling an Electron app
 
----?code=presentation/app-events.js&lang=javascript&title=app events
+---?code=presentation/app-events.js&lang=javascript&title=Events
+@[1](Require the `electron` package)
+@[3](App is launched & ready)
+@[4-5](Respond to user events)
+@[6-7](Handle shutdown events)
