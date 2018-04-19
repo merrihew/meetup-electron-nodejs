@@ -16,6 +16,11 @@
 ![logos-1](https://cl.ly/433J3S2l2y06/Image%202018-04-19%20at%206.37.52%20PM.png)
 
 ---
+## Who uses Electron?
+
+![logos-2](https://cl.ly/1X1c2E0l0T2u/Image%202018-04-19%20at%206.38.55%20PM.png)
+
+---
 ## Electron's `app` Process
 
 The main process controlling an Electron app
@@ -48,3 +53,8 @@ The main process controlling an Electron app
 @ul
 - 
 @ulend
+
+---
+## Gather
+
+![gather](https://cl.ly/0o1m0Z2N2b1U/Image%202018-04-19%20at%206.40.38%20PM.png)
